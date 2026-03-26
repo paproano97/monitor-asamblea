@@ -71,10 +71,9 @@ def main():
     actual = obtener_boletines()
     anterior = cargar_estado()
 
-if not anterior:
-    guardar_estado(actual)
-    enviar_telegram("✅ Monitor activo: todo está funcionando correctamente.")
-    return
+    if not anterior:
+        guardar_estado(actual)
+        return
 
     nuevos = detectar_nuevos(anterior, actual)
 
