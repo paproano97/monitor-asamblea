@@ -1,7 +1,19 @@
 [
   {
+    "titulo": "Comisión de Seguridad analiza normativas sobre apoyo militar a la Policía y uso delictivo de uniformes",
+    "link": "https://www.asambleanacional.gob.ec/es/noticia/116219-comision-de-seguridad-analiza-normativas-sobre-apoyo"
+  },
+  {
+    "titulo": "Comisión de Salud aprueba texto final de reforma para personas que padecen diabetes",
+    "link": "https://www.asambleanacional.gob.ec/es/noticia/116218-comision-de-salud-aprueba-texto-final-de-reforma-para"
+  },
+  {
     "titulo": "SOLCA y especialista presentan observaciones al proyecto de Ley de Eutanasia",
     "link": "https://www.asambleanacional.gob.ec/es/noticia/116213-solca-y-especialista-presentan-observaciones-al"
+  },
+  {
+    "titulo": "Comisión de Educación analiza resultados del concurso para docentes a nivel nacional",
+    "link": "https://www.asambleanacional.gob.ec/es/noticia/116217-comision-de-educacion-analiza-resultados-del-concurso"
   },
   {
     "titulo": "IESS y Consejos proponen ajustes para una ley de obesidad viable y sostenible",
@@ -10,6 +22,10 @@
   {
     "titulo": "Samuel Célleri impulsa reforma al COOTAD para ampliar la conectividad digital en zonas rurales",
     "link": "https://www.asambleanacional.gob.ec/es/noticia/116210-samuel-celleri-impulsa-reforma-al-cootad-para-ampliar"
+  },
+  {
+    "titulo": "Besibell Mendoza presenta reformas para fortalecer la capacitación y el emprendimiento en el país",
+    "link": "https://www.asambleanacional.gob.ec/es/noticia/116216-besibell-mendoza-presenta-reformas-para-fortalecer-la"
   },
   {
     "titulo": "Alcalde de Eloy Alfaro respalda la creación del cantón Borbón en Esmeraldas",
@@ -22,21 +38,5 @@
   {
     "titulo": "Asamblea Nacional fortalece su gestión con más del 50 % de la agenda parlamentaria 2025-2027 cumplida, destaca Niels Olsen",
     "link": "https://www.asambleanacional.gob.ec/es/noticia/116196-asamblea-nacional-fortalece-su-gestion-con-mas-del-50"
-  },
-  {
-    "titulo": "Especialista en derecho ambiental plantea una reparación integral del sistema de páramos",
-    "link": "https://www.asambleanacional.gob.ec/es/noticia/116191-especialista-en-derecho-ambiental-plantea-una"
-  },
-  {
-    "titulo": "Aportes técnicos de los institutos de seguridad social de FF. AA. y Policía buscan fortalecer la Ley de Eutanasia",
-    "link": "https://www.asambleanacional.gob.ec/es/noticia/116208-aportes-tecnicos-de-los-institutos-de-seguridad-social"
-  },
-  {
-    "titulo": "INEC plantea criterios técnicos sobre medición de la obesidad ante la Comisión de Salud",
-    "link": "https://www.asambleanacional.gob.ec/es/noticia/116207-inec-plantea-criterios-tecnicos-sobre-medicion-de-la"
-  },
-  {
-    "titulo": "Elizabeth Vega propone reforma para ampliar licencias de maternidad y paternidad en casos especiales",
-    "link": "https://www.asambleanacional.gob.ec/es/noticia/116186-elizabeth-vega-propone-reforma-para-ampliar-licencias"
   }
 ]
