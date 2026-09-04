@@ -1,5 +1,13 @@
 [
   {
+    "titulo": "Fiscalización recibe información del Banco Central sobre el caso Sucre-FOGLOCONS",
+    "link": "https://www.asambleanacional.gob.ec/es/noticia/119000-fiscalizacion-recibe-informacion-del-banco-central"
+  },
+  {
+    "titulo": "Asamblea Nacional da paso a una transformación histórica del sistema de tránsito y transporte del Ecuador",
+    "link": "https://www.asambleanacional.gob.ec/es/noticia/118999-asamblea-nacional-da-paso-una-transformacion-historica"
+  },
+  {
     "titulo": "Garantías Constitucionales dio seguimiento a procesos de fiscalización y proyectos de ley",
     "link": "https://www.asambleanacional.gob.ec/es/noticia/118996-garantias-constitucionales-dio-seguimiento-procesos-de"
   },
@@ -30,13 +38,5 @@
   {
     "titulo": "Comisión impulsa marco legal para convertir la biodiversidad en motor estratégico del desarrollo sostenible",
     "link": "https://www.asambleanacional.gob.ec/es/node/118956"
-  },
-  {
-    "titulo": "Comisión de Régimen Económico analiza el alcance de la gestión y saneamiento ambiental en reforma legal",
-    "link": "https://www.asambleanacional.gob.ec/es/node/118954"
-  },
-  {
-    "titulo": "Comisión de Salud avanza en la construcción de una normativa que garantice la atención integral de las personas con obesidad",
-    "link": "https://www.asambleanacional.gob.ec/es/node/118955"
   }
 ]
