@@ -1,7 +1,11 @@
 [
   {
+    "titulo": "Comisión de Biodiversidad impulsa una bioeconomía que genere oportunidades para productores y comunidades",
+    "link": "https://www.asambleanacional.gob.ec/es/noticia/119291-comision-de-biodiversidad-impulsa-una-bioeconomia-que"
+  },
+  {
     "titulo": "Justicia emite informe para primer debate sobre validez de documentos físicos o digitales",
-    "link": "https://www.asambleanacional.gob.ec/es/node/119275"
+    "link": "https://www.asambleanacional.gob.ec/es/noticia/119275-justicia-emite-informe-para-primer-debate-sobre-validez"
   },
   {
     "titulo": "Ministerio del Interior y experto en Compliance aportan observaciones al proyecto de Ley Antimafias",
@@ -34,9 +38,5 @@
   {
     "titulo": "Comisión de Seguridad recibe información sobre los avances en seguridad ciudadana y combate a la criminalidad en Chimborazo",
     "link": "https://www.asambleanacional.gob.ec/es/node/119181"
-  },
-  {
-    "titulo": "Desde Riobamba, la Asamblea Nacional impulsa en territorio el debate sobre el primer empleo para jóvenes graduados",
-    "link": "https://www.asambleanacional.gob.ec/es/node/119178"
   }
 ]
